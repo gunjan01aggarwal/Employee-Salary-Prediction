@@ -1,2 +1,3 @@
 # Employee-Salary-Prediction
 To Predict the Salary of an employee according to the information given in dataset..............
+![Picture!](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/download.jpg)
