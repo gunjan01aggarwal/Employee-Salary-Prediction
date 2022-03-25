@@ -27,6 +27,6 @@ Analyse each feature by using seaborn and matplotlib library.How correlate the f
 > For every jobType, those employees have higher degree have higher income.
 
 
-![Experience v/s Salary](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/experience.png)
+![Degree v/s Salary](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/degree.png)
 
 
