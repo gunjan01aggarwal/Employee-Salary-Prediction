@@ -11,4 +11,11 @@ Data Preprocessing:->
                     
 Exploratory Data Analysis:->
 Analyse each feature by using seaborn and matplotlib library.How correlate the features with each other??
-->                    
+
+
+> Experience and Salary are linearly increases.
+> TOP 3 Positions like CEO,CTO,CFO are getting high salary in each industry.Min Salary is 51k$.
+> Janitor Position is getting lowest salary in each industry. Min and Max salary are 17k$ and 189k$ respectively.
+> Janitor has highest qualifications either high school or none .
+> The industry with highest income is OIL ,second is FINANCE and third is WEB.
+> For every jobType, those employees have higher degree have higher income.
