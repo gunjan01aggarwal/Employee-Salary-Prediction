@@ -3,7 +3,7 @@ Problem Statement:->
                     To Predict the Salary of an employee according to the information given in dataset..............
                     
                     
-                    ![Picture!](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/Image.jpg)
+![Picture!](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/Image.jpg)
                     
                     
 ![image](https://user-images.githubusercontent.com/62065619/160145894-a6adf9e9-4479-4c50-a0f5-ff8867feb3cd.png)
@@ -30,6 +30,6 @@ Analyse each feature by using seaborn and matplotlib library.How correlate the f
 > For every jobType, those employees have higher degree have higher income.
 
 
-![Exp v/s Salary](https://github.com/gunjan01aggarwal/Employee-Salary-Prediction/blob/main/exp.png)
+
 
 
