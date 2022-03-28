@@ -14,7 +14,8 @@
                     
 **Exploratory Data Analysis:->
  
-Analyse each feature by using seaborn and matplotlib library.How correlate the features to each other??
+Analyse each feature by using seaborn and matplotlib library.How correlate the independent features with the dependent feature ?
+
 > Experience and Salary are linearly increases.
 
 > TOP 3 Positions like CEO,CTO,CFO are getting high salary in each industry.Min Salary is 51k$.
@@ -26,6 +27,12 @@ Analyse each feature by using seaborn and matplotlib library.How correlate the f
 > The industry with highest income is OIL ,second is FINANCE and third is WEB.
 
 > For every jobType, those employees have higher degree have higher income.
+
+
+
+![degree](https://user-images.githubusercontent.com/62065619/160466251-2591c60d-452e-4cb0-93eb-a435f006179a.png)
+
+
 
 
 
