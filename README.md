@@ -33,7 +33,7 @@ Analyse each feature by using seaborn and matplotlib library.How correlate the i
 ![degree](https://user-images.githubusercontent.com/62065619/160466251-2591c60d-452e-4cb0-93eb-a435f006179a.png)
 
 
-
+weblink:http://127.0.0.1:5000/
 
 
 
