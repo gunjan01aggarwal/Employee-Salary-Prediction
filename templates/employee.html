@@ -1,0 +1,91 @@
+<html lang="es">
+<style>
+   #myTextBox1 {margin-left:40px; }
+</style>
+<body>
+   <h3 style="color: green;"> Employee Salary Prediction Form </h3>
+
+
+<div>
+   <form action="/predict" method="POST">
+	<label for="Job Type"> Job Type </label>
+        <select name="Job Type" id="Job Type">
+	        <option value="0" > CEO </option>
+            <option value = "1" > CFO </option>
+            <option value = "2" > CTO </option>
+            <option value = "3" > JANITOR </option>
+            <option value = "4" > JUNIOR </option>
+            <option value = "5" > MANAGER </option>
+            <option value = "6" > SENIOR </option>
+            <option value= "7" > VICE_PRESIDENT </option>
+        </select>
+
+        <br>
+	<br>
+
+	<label for="Degree"> Degree</label>
+        <select id="Degree" name="Degree">
+            <option value = "0"> BACHELORS </option>
+            <option value = "1"> DOCTORAL </option>
+	        <option value = "2"> HIGH_SCHOOL </option>
+            <option value = "3"> MASTERS </option>
+            <option value = "4"> NONE </option>
+        </select>
+
+        <br>
+	<br>
+
+        <label for="Experience(in yrs)">Experience </label>
+        <input type="number" id= "Experience(in yrs)" name="Experience(in yrs)">
+        <br>
+	<br>
+
+        <label for="Distance from Metropolis (in miles)">Distance </label>
+        <input type="number" id= "Distance from Metropolis (in miles)" name="Distance from Metropolis (in miles)">
+        <br>
+	<br>
+
+        <label for="Major">Major</label>
+        <select id="Major" name="Major">
+            <option value = "MATH"> MATH </option>
+            <option value = "NONE"> NONE </option>
+            <option value = "PHYSICS"> PHYSICS </option>
+            <option value = "CHEMISTRY"> CHEMISTRY </option>
+            <option value = "COMPSCI"> COMPSCI </option>
+            <option value = "BIOLOGY"> BIOLOGY </option>
+            <option value = "LITERATURE"> LITERATURE </option>
+            <option value = "BUSINESS"> BUSINESS </option>
+            <option value = "ENGINEERING"> ENGINEERING </option>
+        </select>
+        <br>
+	<br>
+
+        <label for="Industry">Industry</label>
+        <select id="Industry" name="Industry">
+             <option value = "HEALTH">HEALTH </option>
+             <option value = "WEB"> WEB </option>
+             <option value = "AUTO"> AUTO </option>
+             <option value = "FINANCE"> FINANCE </option>
+             <option value = "EDUCATION"> EDUCATION </option>
+             <option value = "OIL"> OIL </option>
+             <option value = "SERVICE">SERVICE</option>
+         <br>
+    <br>
+
+        <input type="submit" value ="Submit" class="btn btn -secondary"
+               style="background-color: green;  color: white">
+         <br>
+    <br>
+   </form>
+
+<strong>Love and peace</strong>
+
+<br>
+<br>
+<h3>{{ prediction_text }}</h3>
+
+
+
+</div>
+</body>
+</html>
