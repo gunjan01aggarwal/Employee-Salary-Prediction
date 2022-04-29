@@ -35,7 +35,7 @@ Analyse each feature by using seaborn and matplotlib library.How correlate the i
 
 
 
-<<<<<<HEAD
+<<HEAD
 WebApp Link:https://employeesalarypredict-api.herokuapp.com/
 =========           
            
